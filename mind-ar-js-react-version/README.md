@@ -4,14 +4,9 @@ This is an example project of using [MindAR](https://github.com/hiukim/mind-ar-j
 
 The react components are:
 
-1. `src/mindar-viewer` (AFRAME version), and 
-2. `src/mindar-three-viewer` (ThreeJS version). 
+1. `src/mindar-viewer` (AFRAME version), 
 
 Everything else are created from `create-react-app`, and they are irrelevant. 
-
-# Screenshot
-|![alt text](https://github.com/hiukim/mind-ar-js-react/blob/master/screenshot.png?raw=true)|
-|-
 
 # It demonstrates:
 
